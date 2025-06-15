@@ -112,21 +112,6 @@ The application supports 150+ currencies including:
 - Adapts to different screen sizes
 - Touch-friendly interface
 
-## 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 Development Notes
 
 - The application uses modern JavaScript features (ES6+)
@@ -140,7 +125,7 @@ The application supports 150+ currencies including:
 - Some exotic currency pairs might not be available
 - Requires internet connection for real-time rates
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements that can be developed
 
 - [ ] Historical exchange rate charts
 - [ ] Favorite currency pairs
@@ -148,16 +133,12 @@ The application supports 150+ currencies including:
 - [ ] Currency trend indicators
 - [ ] Multi-language support
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [jptlearn](https://github.com/yourusername)
+- Email: jptcode500@gmail.com
 
 ## 🙏 Acknowledgments
 
